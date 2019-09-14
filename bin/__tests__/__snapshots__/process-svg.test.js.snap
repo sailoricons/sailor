@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`rejects when passed unparsable SVG string 1`] = `
+[Error: Error in parsing SVG: Unclosed root tag
+Line: 0
+Column: 10
+Char: ]
+`;
