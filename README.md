@@ -8,7 +8,7 @@
 
 ## What is sailor?
 
-Sailor is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and usability.
+Sailor is a collection of nice open source icons. Each icon is designed with an emphasis on simplicity, consistency and usability.
 
 ```shell
 npm install sailor-icons --save
