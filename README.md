@@ -5,7 +5,6 @@
 [![npm downloads](https://img.shields.io/npm/dm/sailor-icons.svg?style=flat-square)](https://www.npmjs.com/package/sailor-icons)
 [![HitCount](http://hits.dwyl.io/sailoricons/sailor.svg)](http://hits.dwyl.io/sailoricons/sailor)
 [![npm version](https://img.shields.io/npm/v/sailor-icons.svg?style=flat-square)](https://www.npmjs.com/package/sailor-icons)
-[![CDNJS version](https://img.shields.io/cdnjs/v/sailor-icons.svg?style=flat-square)](https://cdnjs.com/libraries/sailor-icons)
 
 ## What is sailor?
 
