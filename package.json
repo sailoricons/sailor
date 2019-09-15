@@ -1,7 +1,7 @@
 {
   "name": "sailor-icons",
   "version": "1.0.0",
-  "description": "Simply beautiful open source icons",
+  "description": "Nice open source icons",
   "main": "dist/sailor.js",
   "unpkg": "dist/sailor.min.js",
   "files": [
