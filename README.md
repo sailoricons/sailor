@@ -374,8 +374,8 @@ will be replaced with:
 
 ## Related Projects
 
- - [react-sailor-icons](https://github.com/carmelopullara/react-sailor) - sailor icons as React components
- - [vue-sailor-icons](https://github.com/egoist/vue-sailor-icons) - sailor icons as Vue components
+ - [react-sailor-icons](https://github.com/sailoricons/react-sailor-icons) - sailor icons as React components
+ - [vue-sailor-icons](https://github.com/sailoricons/vue-sailor-icons) - sailor icons as Vue components
 
 ## License
 
